@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MvcWepApi", "MvcWepApi\MvcWepApi.csproj", "{47326698-3E0D-4484-81F7-034CECFBC90D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{47326698-3E0D-4484-81F7-034CECFBC90D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47326698-3E0D-4484-81F7-034CECFBC90D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47326698-3E0D-4484-81F7-034CECFBC90D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47326698-3E0D-4484-81F7-034CECFBC90D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {878840E8-F7E5-488D-9FF9-7F30E8861175}
+	EndGlobalSection
+EndGlobal
